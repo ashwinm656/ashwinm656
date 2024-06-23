@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwinm656&label=Profile%20views&color=0e75b6&style=flat" alt="ashwinm656" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashwinm656" alt="ashwinm656" /></a> </p>
-<img align="right" alt="Data Scientist" width="300" src= "https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"
+<img align="right" alt="Data Scientist" width="100" src= "https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"
 - 🔭 I am currently focused on **data science, machine learning, deep learning,computer vision, and big data analytics using TensorFlow, PyTorch, Spark, and cloud platforms like AWS and Google Cloud.**
 
 - 🌱 I’m currently learning **Augmented Analytics by IBM.**
