@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ashwinm656@gmail.com**
 
-- 📄 Know about my experiences [https://www.dropbox.com/scl/fi/0b7nhvxf2m69aq1i32ypf/Ashwin_Resume.pdf?rlkey=27fmdffigzzal7osxrv5udt6v&st=gbkqxz5k&dl=0](https://www.dropbox.com/scl/fi/0b7nhvxf2m69aq1i32ypf/Ashwin_Resume.pdf?rlkey=27fmdffigzzal7osxrv5udt6v&st=gbkqxz5k&dl=0)
+- 📄 Know about my experiences [https://shorturl.at/iXH2V](https://shorturl.at/iXH2V)
 
 - ⚡ Fun fact **Data scientists spend 80% of their time cleaning data and the other 20% complaining about cleaning data.**
 
