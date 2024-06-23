@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="DATA_AI_HEADER.gif" alt="Header GIF" height="250">
+    <img src="Data_Science_Header.gif" alt="Header GIF" ">
 </p>
 <h1 align="center">Hi 👋, I'm Ashwin</h1>
 <h3 align="center">A passionate data scientist with a degree in Artificial Intelligence and Data Science from India.</h3>
